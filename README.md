@@ -1,7 +1,6 @@
 # Qiskit
 Quantum CLI
 
-Certainly! Here’s an in-depth and comprehensive list of Qiskit CLI commands, including usage examples and advanced techniques:
 
 ### **Qiskit CLI Overview**
 
